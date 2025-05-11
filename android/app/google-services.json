@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658110566155",
+    "project_id": "food-base-ae0df",
+    "storage_bucket": "food-base-ae0df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658110566155:android:12b4c84a8026b05435dc0e",
+        "android_client_info": {
+          "package_name": "com.dbestech.restaurant_foodly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5vD8vS5ahy6ef-iRYJtJ3yrCRpTgY0UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
